@@ -15,5 +15,4 @@ for (const ingredient of ingredients) {
   liEl.classList.add("liEl");
   list.appendChild(liEl);
 }
-
 console.log(list);
